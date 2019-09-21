@@ -5,21 +5,13 @@
 	<artifactId>string-similarity</artifactId>
 	<version>1.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-
-	
-	<properties>
+ 
+    <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<junit.version>4.12</junit.version>
 		<mockito.version>1.10.19</mockito.version>
 	</properties>
 
-	
-	
-
-	
-
-	
-	
 	<dependencies>
 		<dependency>
 			<groupId>org.mockito</groupId>
